@@ -11,7 +11,7 @@ menu:
     音乐: /music/ || fas fa-music
     好康的: /movies/ || fas fa-video
   友链: /link/ || fas fa-link
-  关于我们: /about/ || fas fa-heart
+  如何赞助: /about/ || fas fa-heart
 
 # Code Blocks (代碼相關)
 # --------------------------------------
@@ -123,7 +123,9 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-    - https://tse4-mm.cn.bing.net/th/id/OIP-C.01jzeyGHqLfPothumvR3-AAAAA?w=287&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7
+    - https://pic2.zhimg.com/v2-9cacdd9ee31820c13f2237e1af6eea91_r.jpg
+    - https://ts1.cn.mm.bing.net/th/id/R-C.339dafa48425c378026bc9dc88c042d0?rik=4VtT5YkpJ1x3Jg&riu=http%3a%2f%2fp0.qhmsg.com%2ft016a1f5adf9d2a0491.jpg&ehk=taH4UgzWjvJ7dtEfaKd5JW9ySwmcG2v6Dc7nv29phBU%3d&risl=&pid=ImgRaw&r=0
+    - https://img.tt98.com/d/2020/2020062917009559/5ef9ab101b21e.jpg
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
@@ -518,7 +520,7 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: https://www.toopic.cn/public/uploads/small/1637562996238163756299635.png
+background: https://pic4.zhimg.com/v2-8deb98e5850ac191be660afb13f98e67_r.jpg
 
 # Footer Background
 footer_bg: false
